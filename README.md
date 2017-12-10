@@ -1,4 +1,4 @@
-# hello-vue
+# vue.js development on npm
 
 > A Vue.js project
 
